@@ -1,0 +1,7 @@
+After installing the tool, follow these steps to run it and perform different SS7-based attacks: 
+Launch the tool by running: python ss7map.py
+Select the type of attack you want to perform:
+Call interception.
+SMS interception.
+Real-time location tracking.
+Enter the target phone number.
