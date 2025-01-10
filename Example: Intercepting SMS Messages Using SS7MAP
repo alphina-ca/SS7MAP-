@@ -1,0 +1,8 @@
+Here’s how you can use SS7MAP to intercept SMS messages:
+
+Launch the tool: python ss7map.py
+Select SMS Interception from the menu.
+
+Enter the target phone number.
+
+The intercepted SMS messages will be displayed on your terminal.
