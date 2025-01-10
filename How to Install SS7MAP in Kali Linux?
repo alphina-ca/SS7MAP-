@@ -1,0 +1,5 @@
+Open Kali Linux Terminal.
+Update your system by running: sudo apt update && sudo apt upgrade
+Clone the SS7MAP tool from GitHub: git clone https://github.com/ernw/ss7map.git
+Navigate to the tool's directory:cd ss7map
+Install the required dependencies: pip install -r requirements.txt
