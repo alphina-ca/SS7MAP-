@@ -1,0 +1,5 @@
+introduction 
+What is SS7MAP?
+SS7MAP is a tool available in Kali Linux used to test vulnerabilities in the SS7 protocol. The Signaling System 7 (SS7) protocol is used by telecom companies to manage communication between different mobile networks.
+
+Hackers can exploit SS7 vulnerabilities to intercept phone calls, SMS messages, and even track the real-time location of a phone using only the phone number.
